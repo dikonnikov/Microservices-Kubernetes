@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![dikonnikov](https://circleci.com/gh/dikonnikov/Microservices-Kubernetes.svg?style=svg)](https://circleci.com/gh/dikonnikov/Microservices-Kubernetes)
 
 ## Project Overview
 
